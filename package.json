@@ -33,7 +33,7 @@
     "browsers": [
       "chrome/latest",
       "chrome/canary",
-      "firefox/3.6..4",
+      "firefox/3.6",
       "firefox/latest",
       "firefox/nightly",
       "opera/10..latest",
