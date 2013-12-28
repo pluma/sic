@@ -1,0 +1,22 @@
+{
+  "name": "sic",
+  "repo": "pluma/sic",
+  "description": "Wraps a value in a function.",
+  "keywords": [
+    "self",
+    "function",
+    "wrap"
+  ],
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": ["dist/sic.js"],
+  "main": "./dist/sic.js",
+  "ignore": [
+    "**/.*",
+    "build",
+    "components",
+    "node_modules"
+  ],
+  "license": "CC0"
+}
