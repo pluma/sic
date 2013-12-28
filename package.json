@@ -14,10 +14,10 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "1.10.x",
-    "expect.js": "0.2.x",
-    "uglify-js": "2.3.x",
-    "jshint": "2.1.x"
+    "mocha": "~1.16",
+    "expect.js": "~0.2",
+    "uglify-js": "~2.4",
+    "jshint": "~2.4"
   },
   "license": "CC0",
   "main": "./dist/sic.js",
