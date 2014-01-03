@@ -1,4 +1,4 @@
-LICENSE_COMMENT="/*! sic 0.1.0 Original author Alan Plum <me@pluma.io>. Released into the Public Domain under CC0. @preserve */"
+LICENSE_COMMENT="/*! sic 0.1.1 Original author Alan Plum <me@pluma.io>. Released into the Public Domain under the UNLICENSE. @preserve */"
 
 test: lint dist
 	@./node_modules/.bin/mocha \

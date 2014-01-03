@@ -7,7 +7,7 @@
     "function",
     "wrap"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {},
   "devDependencies": {},
   "scripts": ["dist/sic.js"],
@@ -18,5 +18,5 @@
     "components",
     "node_modules"
   ],
-  "license": "CC0"
+  "license": "UNLICENSE"
 }
