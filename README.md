@@ -1,10 +1,13 @@
 # Synopsis
 
-**sic** is a JavaScript function for wrapping a value in a function.
+**sic** is a JavaScript function for wrapping a value in a function (equivalent to the `K` [combinator](http://en.wikipedia.org/wiki/Combinatory_logic)).
+
+[![stability 5 - locked](http://b.repl.ca/v1/stability-5_--_locked-blue.png)
+](http://nodejs.org/api/documentation.html#documentation_stability_index) [![license - Unlicense](http://b.repl.ca/v1/license-Unlicense-lightgrey.png)](http://unlicense.org/)
 
 [![browser support](https://ci.testling.com/pluma/sic.png)](https://ci.testling.com/pluma/sic)
 
-[![Build Status](https://travis-ci.org/pluma/sic.png?branch=master)](https://travis-ci.org/pluma/sic) [![NPM version](https://badge.fury.io/js/sic.png)](http://badge.fury.io/js/sic) [![Dependencies](https://david-dm.org/pluma/sic.png)](https://david-dm.org/pluma/sic)
+[![Build Status](https://travis-ci.org/pluma/sic.png?branch=master)](https://travis-ci.org/pluma/sic) [![Coverage Status](https://coveralls.io/repos/pluma/sic/badge.png?branch=master)](https://coveralls.io/r/pluma/sic?branch=master) [![Dependencies](https://david-dm.org/pluma/sic.png?theme=shields.io)](https://david-dm.org/pluma/sic)
 
 # Why?
 
