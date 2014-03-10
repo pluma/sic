@@ -3,7 +3,7 @@
 **sic** is a JavaScript function for wrapping a value in a function (equivalent to the `K` [combinator](http://en.wikipedia.org/wiki/Combinatory_logic)).
 
 [![stability 5 - locked](http://b.repl.ca/v1/stability-5_--_locked-blue.png)
-](http://nodejs.org/api/documentation.html#documentation_stability_index) [![license - Unlicense](http://b.repl.ca/v1/license-Unlicense-lightgrey.png)](http://unlicense.org/)
+](http://nodejs.org/api/documentation.html#documentation_stability_index) [![license - Unlicense](http://b.repl.ca/v1/license-Unlicense-lightgrey.png)](http://unlicense.org/) [![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=pluma&url=https://github.com/pluma/sic)
 
 [![browser support](https://ci.testling.com/pluma/sic.png)](https://ci.testling.com/pluma/sic)
 
